@@ -1,2 +1,26 @@
 The quick brown fox jumps over the lazy dog.
 
+git init
+    Initialise an existing directory as a Git Repository
+
+git remote -v 
+    Command to check all the remote links for your project
+
+git remote add origin <link>
+    Connect your local project to a remote Repository
+
+git add
+    Add files to staging
+
+git commit -m "descriptive message"
+    Commit your changes in version history
+
+git push 
+    Uploads all local commits to gitub
+
+git log 
+    Show commit history with author, date, and commit message
+
+git checkout
+    Switch from one branch to another
+    
